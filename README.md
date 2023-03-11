@@ -323,22 +323,4 @@ b-27: right: 83, wrong: 2, accuracy: 0.9764705882352941
 
 Running time is on average 62.87 seconds for extraction. 
 
-## Contributions of the Authors
-
-
-**Himani Shah** <shahhi@iu.edu>: 
-
-- Complete idea and execution of Task 2
-- Report for Task 2
-- Discuss and modified Task 1
-
-**Rahul Suresh Ubale** <raubale@iu.edu>: 
-
-- Discuss and modified Task 1
-
-**Yuhui Hong** <yuhhong@iu.edu>: 
-
-- Implement and evaluate Task 1
-- Report for Task 1
-- Discuss and modified Task 2
 
